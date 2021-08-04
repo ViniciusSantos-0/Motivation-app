@@ -32,6 +32,7 @@
             app:tint="@color/white" />
 
         <ImageView
+            android:id="@+id/imageSun"
             android:layout_width="wrap_content"
             android:layout_height="45dp"
             android:layout_margin="8dp"
@@ -47,7 +48,6 @@
         android:layout_below="@+id/lenearMenu"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:text="Hello World!"
         android:textSize="18sp" />
 
     <TextView
@@ -57,7 +57,10 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_marginTop="15dp"
-        android:text="Frase"
+        android:padding="16dp"
+        android:layout_margin="16dp"
+        android:textAlignment="center"
+        android:text="@string/frase"
         android:textSize="22sp" />
 
     <View
@@ -77,7 +80,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="10dp"
         android:padding="16dp"
-        android:background="@color/colorPrimary"
+        android:background="@drawable/ripple_button"
         android:textColor="@color/white"/>
 
 </RelativeLayout>
