@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:paddingTop="60dp"
-        android:text="@string/vamos_comecar"
+        android:text="@string/lets_begin"
         android:textColor="@color/white"
         android:textSize="30sp" />
 
@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:hint="@string/digite_seu_nome"
+        android:hint="@string/enter_your_name"
         android:textColor="@color/white"
         android:inputType="text"
         android:paddingTop="350dp"
@@ -36,7 +36,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="650dp"
         android:background="@color/pink"
-        android:text="@string/salvar"
+        android:text="@string/save"
         android:textColor="@color/white" />
 
 </RelativeLayout>
