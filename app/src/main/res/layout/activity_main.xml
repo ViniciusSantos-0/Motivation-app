@@ -60,7 +60,7 @@
         android:padding="16dp"
         android:layout_margin="16dp"
         android:textAlignment="center"
-        android:text="@string/frase"
+        android:text="@string/phrase"
         android:textSize="22sp" />
 
     <View
@@ -75,7 +75,7 @@
         android:id="@+id/buttonPhrase"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/nova_frase"
+        android:text="@string/new_phrasee"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="10dp"

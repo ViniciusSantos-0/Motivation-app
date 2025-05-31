@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Motivation</string>
-    <string name="vamos_comecar">Vamos Começar?</string>
-    <string name="digite_seu_nome">Digite seu nome</string>
-    <string name="salvar">Salvar</string>
-    <string name="nova_frase">Nova Frase</string>
-    <string name="frase">Frase</string>
+    <string name="motivation">Motivation</string>
+    <string name="lets_begin">Let\'s Begin?</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save">Save</string>
+    <string name="new_phrasee">New phrase</string>
+    <string name="phrase">phrase</string>
 </resources>
